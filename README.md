@@ -1,2 +1,2 @@
 # bac-a-sable
-Bac a sable GitHub
+Bac a sable
