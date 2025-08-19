@@ -1,3 +1,5 @@
 # This a config file for triagebot
 
 [range-diff]
+
+[review-changes-since]
