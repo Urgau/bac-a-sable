@@ -7,3 +7,5 @@
 [mentions."#[rustc_attr]"]
 type = "content"
 cc = ["@Urgau"]
+
+[shortcut]
