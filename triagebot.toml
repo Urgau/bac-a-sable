@@ -9,3 +9,5 @@ type = "content"
 cc = ["@Urgau"]
 
 [shortcut]
+
+[relabel]
