@@ -11,3 +11,9 @@ cc = ["@Urgau"]
 [shortcut]
 
 [relabel]
+
+[review-submitted]
+# These labels are removed when a review is submitted.
+review_labels = ["S-waiting-on-review"]
+# This label is added when a review is submitted.
+reviewed_label = "S-waiting-on-author"
