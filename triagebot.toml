@@ -12,6 +12,8 @@ cc = ["@Urgau"]
 
 [relabel]
 
+[assign]
+
 [review-submitted]
 # These labels are removed when a review is submitted.
 review_labels = ["S-waiting-on-review"]
