@@ -8,6 +8,9 @@
 type = "content"
 cc = ["@Urgau"]
 
+[mentions."{aa.txt"]
+message = "invalid glob"
+
 [shortcut]
 
 [relabel]
