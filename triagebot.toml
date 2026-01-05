@@ -8,8 +8,8 @@
 type = "content"
 cc = ["@Urgau"]
 
-[mentions."{aa.txt"]
-message = "invalid glob"
+[mentions."*.txt"]
+message = "valid glob"
 
 [shortcut]
 
