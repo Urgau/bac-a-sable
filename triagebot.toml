@@ -25,3 +25,5 @@ reviewed_label = "S-waiting-on-author"
 
 [view-all-comments]
 threashold = 5
+
+[merge-conflicts]
