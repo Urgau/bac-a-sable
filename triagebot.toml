@@ -27,3 +27,5 @@ reviewed_label = "S-waiting-on-author"
 #threashold = 5
 
 [merge-conflicts]
+
+[merge]
