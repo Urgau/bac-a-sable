@@ -1,8 +1,8 @@
 name: Merge Queue CI
 
 on:
+  pull_request:
   merge_group:
-    types: [checks_requested]
 
 jobs:
   sleep-job:
