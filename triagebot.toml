@@ -28,5 +28,7 @@ reviewed_label = "S-waiting-on-author"
 
 [merge-conflicts]
 
-[merge]
-type = "merge-queue"
+#[merge]
+#type = "merge-queue"
+
+[lock]
