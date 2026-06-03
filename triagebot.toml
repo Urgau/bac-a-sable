@@ -17,6 +17,13 @@ cc = ["Urgau"]
 
 [assign]
 
+[assign.owners]
+"*" = ["@Urgau"]
+
+[assign.min_reviews]
+minimum = 1
+label = "S-waiting-on-community-reviews"
+
 [review-submitted]
 # These labels are removed when a review is submitted.
 review_labels = ["S-waiting-on-review"]
