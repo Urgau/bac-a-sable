@@ -23,8 +23,8 @@ cc = ["Urgau"]
 [assign.adhoc_groups]
 fallback = ["@Urgau"]
 
-[assign.min_reviews]
-minimum = 1
+[assign.community_reviews]
+minimum_reviews = 1
 label = "S-waiting-on-community-reviews"
 
 [review-submitted]
