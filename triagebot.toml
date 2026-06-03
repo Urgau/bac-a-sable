@@ -20,6 +20,9 @@ cc = ["Urgau"]
 [assign.owners]
 "*" = ["@Urgau"]
 
+[assign.adhoc_groups]
+fallback = ["@Urgau"]
+
 [assign.min_reviews]
 minimum = 1
 label = "S-waiting-on-community-reviews"
