@@ -23,9 +23,13 @@ cc = ["Urgau"]
 [assign.adhoc_groups]
 fallback = ["@Urgau"]
 
-[assign.community_reviews]
-minimum_reviews = 1
-label = "S-waiting-on-community-reviews"
+[assign.check_activity]
+warning_after = 6
+release_assignment_after = 7
+
+#[assign.community_reviews]
+#minimum_reviews = 1
+#label = "S-waiting-on-community-reviews"
 
 [review-submitted]
 # These labels are removed when a review is submitted.
