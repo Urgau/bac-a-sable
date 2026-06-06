@@ -24,8 +24,8 @@ cc = ["Urgau"]
 fallback = ["@Urgau"]
 
 [assign.check_activity]
-warning_after = 6
-release_assignment_after = 7
+inactivity_reminder = 6
+inactivity_limit = 7
 
 #[assign.community_reviews]
 #minimum_reviews = 1
