@@ -23,9 +23,9 @@ cc = ["Urgau"]
 [assign.adhoc_groups]
 fallback = ["@Urgau"]
 
-[assign.check_activity]
-inactivity_reminder = 6
-inactivity_limit = 7
+#[assign.check_activity]
+#inactivity_reminder = 6
+#inactivity_limit = 7
 
 #[assign.community_reviews]
 #minimum_reviews = 1
@@ -42,7 +42,7 @@ reviewed_label = "S-waiting-on-author"
 
 [merge-conflicts]
 
-#[merge]
-#type = "merge-queue"
+[merge]
+type = "merge-queue"
 
 [lock]
