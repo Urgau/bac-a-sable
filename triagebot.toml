@@ -1,10 +1,10 @@
 # This a config file for triagebot
 
 # invalid for https://github.com/rust-lang/triagebot/pull/2457
-[autolabel."test"]
-trigger_files = [
-    "inva{id"
-]
+#[autolabel."test"]
+#trigger_files = [
+#    "inva{id"
+#]
 
 [rendered-link]
 trigger-files = ["inva{id"]
