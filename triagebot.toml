@@ -10,8 +10,8 @@ trigger_files = [
 trigger-files = ["inva{id"]
 exclude-files = ["inva{iid"]
 
-[mentions."inval{id"]
-cc = ["Urgau"]
+#[mentions."inval{id"]
+#cc = ["Urgau"]
 
 [range-diff]
 
