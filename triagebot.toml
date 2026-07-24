@@ -17,6 +17,8 @@ cc = ["Urgau"]
 
 [assign]
 
+[issue-links]
+
 [assign.owners]
 "*" = ["@Urgau"]
 
