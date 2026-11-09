@@ -48,3 +48,5 @@ reviewed_label = "S-waiting-on-author"
 type = "merge-queue"
 
 [lock]
+
+[undraft-comment]
